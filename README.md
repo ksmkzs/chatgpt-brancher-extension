@@ -2,7 +2,7 @@
 
 ChatGPTの会話履歴を**ツリー形式**で可視化し、**分岐した会話**を簡単に管理できるChrome拡張機能です。
 
-![ChatGPT Brancher Demo](https://via.placeholder.com/800x400?text=ChatGPT+Brancher+Demo)
+
 
 ## 🌟 主な機能
 
@@ -31,11 +31,6 @@ ChatGPTの会話履歴を**ツリー形式**で可視化し、**分岐した会�
 - チャット入力欄が赤枠でハイライト表示
 
 ## 🚀 インストール方法
-
-### Chrome Web Storeから（推奨）
-1. [Chrome Web Store](https://chrome.google.com/webstore) で「ChatGPT Brancher」を検索
-2. 「Chromeに追加」をクリック
-3. ChatGPTページを開くと自動的に動作開始
 
 ### 手動インストール（開発者向け）
 1. このリポジトリをクローンまたはダウンロード
