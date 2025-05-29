@@ -108,6 +108,8 @@ zip -r chatgpt-brancher.zip . -x "*.git*" "*.DS_Store*" "create_icons.html" "gen
 
 - 非常に長い会話（100+メッセージ）でのパフォーマンス低下
 - 一部のChatGPT UIアップデートでの互換性問題
+- Canvas機能を利用したチャットでの動作不可
+- ページスクロールの問題
 
 ## 🤝 コントリビューション
 
@@ -130,9 +132,8 @@ zip -r chatgpt-brancher.zip . -x "*.git*" "*.DS_Store*" "create_icons.html" "gen
 
 ## 📞 サポート
 
-- 🐛 **バグ報告**: [GitHub Issues](https://github.com/yourusername/chatgpt-brancher-extension/issues)
-- 💡 **機能リクエスト**: [GitHub Discussions](https://github.com/yourusername/chatgpt-brancher-extension/discussions)
-- 📧 **その他**: your-email@example.com
+- 🐛 **バグ報告**: [GitHub Issues](https://github.com/ksmkzs/chatgpt-brancher-extension/issues)
+- 💡 **機能リクエスト**: [GitHub Discussions](https://github.com/ksmkzs/chatgpt-brancher-extension/discussions)
 
 ---
 
